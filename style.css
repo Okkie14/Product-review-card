@@ -1,0 +1,21 @@
+html {
+    font-size: 14px;
+    font-family: 'Fraunces', serif;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.cart-add {
+    background-color: hsl(158, 36%, 37%);
+    padding: 1rem 4rem;
+    border-radius: 10px;
+    border: 1px solid hsl(158, 36%, 37%);
+    color: hsl(0, 0%, 100%);
+    cursor: pointer;
+}
+
+.cart-add img {
+    padding: 0 1rem;
+}
